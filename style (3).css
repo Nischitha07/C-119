@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+.header_div{
+    float: none;
+    border-radius: 15px;
+    box-shadow: 5px 2px 12px 4px grey;
+    background-color: white;
+}
+.container {
+    background-color: rgb(2, 2, 212);
+    border-radius: 20%;
+    box-shadow: 5px 2px 12px 4px grey;
+}
+.btn{
+    font-size: 25px;
+}
+#object_btn{
+margin-left:60%;
+display:block;
+}
+#accuracy_btn{
+    margin-left:60%;
+}
+.footer_div{
+    color:white;
+    background-color: rgb(243, 101, 124);
+    border-radius:10px;
+    font-size: 20px;
+    line-height: 2;
+    font-family: 'Pacifico', cursive;
+    bottom:0px;
+}
+canvas{
+    border:chartreuse;
+    box-shadow: 6px 6px 8px 10px red;
+    border-radius: 10px;
+    margin-top:-470px;
+}
